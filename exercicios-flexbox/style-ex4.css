@@ -1,0 +1,16 @@
+.container{
+    width: 40%;
+    border: 1px solid #000;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.container p{
+    background-color: #4d7298;
+    border: 3px solid #77a6b6;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 1px 15px 0 0;
+}
